@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey! My name's Emiliano Aparicio 👋</h1>
 
-<h3 align="center">I am a bioengineer, full stack web developer, almost doctor of engineering, symphonic metal absolutist, videogame designer wannabe, and forever a cat lover. I'm interested in technology and programming since I can remember. Nowadays, I'm starting my own videogame project while searching for jobs related to web development. Let's talk about what I can offer!</h3>
+<h3 align="center">I am a bioengineer, full stack developer, almost doctor of engineering, symphonic metal absolutist, videogame designer wannabe, and forever a cat lover. I'm interested in technology and programming since I can remember. Nowadays, I'm starting my own videogame project while working as a web dev. Let's talk about what I can offer!</h3>
 
 <h4>🧐 About my experience:</h4>
 <ul>

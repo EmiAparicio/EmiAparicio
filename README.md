@@ -33,7 +33,7 @@
 
 <h4>🦾 About my projects:</h4>
 <ul>
-  <li>Two web projects in my portfolio: Individual Project "Invasion Tours" and Group Project "Starcards". I was also part of Henry's staff as a Teaching Assistant (TA)</li>
+  <li>Two web projects in my portfolio: Individual Project "Invasion Tours" and Group Project "StarCards". I was also part of Henry's staff as a Teaching Assistant (TA)</li>
   <li>I currently dedicate most of my time to video games design, focused on economics (NFT projects, blockchain, play to earn) with biomimetic models (functional inspiration from nature); in my own in-formation company "Oblivion Mechanics", with two projects on roadmap, and a consultancy carried out for the company Innovation Theory</li>
 </ul>
 

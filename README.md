@@ -39,6 +39,6 @@
 
 <br></br>
 <p align="left">
-In case of any query, reach me at: 📫 emilianojaparicio@gmail.com
+In case of any query, reach me at: 📫 <a href = "mailto:emilianojaparicio@gmail.com">emilianojaparicio@gmail.com</a>
 <a href="https://www.linkedin.com/in/emiliano-aparicio-8b9757236" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/emiliano-aparicio-8b9757236" height="30" width="40" /></a>
 </p>

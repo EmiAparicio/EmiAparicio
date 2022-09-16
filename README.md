@@ -8,7 +8,7 @@
 <ul>
   <li>Full Stack Web Developer, graduated from Henry's Bootcamp</li>
   <li>Doctoral scholarship from CONICET</li>
-  <li>Bioengineer, from Universidad de Mendoza (National Standard Bearer 2014), with a gold medal and the best engineering graduate (National Academy of Engineering) awards</li>
+  <li>Bioengineer, at Universidad de Mendoza (National Standard Bearer 2014), with a gold medal and the best engineering graduate (National Academy of Engineering) awards</li>
   <li>High school degree with an orientation to organizations administration</li>
 </ul>
 

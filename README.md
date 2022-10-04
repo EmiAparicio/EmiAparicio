@@ -8,13 +8,13 @@
 <ul>
   <li>Full Stack Web Developer, graduated from Henry's Bootcamp</li>
   <li>Doctoral scholarship from CONICET</li>
-  <li>Bioengineer, at Universidad de Mendoza (National Standard Bearer 2014), with a gold medal and the best engineering graduate (National Academy of Engineering) awards</li>
+  <li>Bioengineer, from Universidad de Mendoza (National Standard Bearer 2014), with a gold medal and the best engineering graduate (National Academy of Engineering) awards</li>
   <li>High school degree with an orientation to organizations administration</li>
 </ul>
 
 <h4>🧠 About my skills:</h4>
 <ul>
-  <li>Technology: HTML, CSS, JavaScript ReactJS, NodeJS, Redux, Sequelize, PostgreSQL, Express, for Databases, Back-end and Front-end </br> 
+  <li>Technology (PERN): HTML, CSS, JavaScript ReactJS, NodeJS, Redux, Sequelize, PostgreSQL, Express, for Databases, Back-end and Front-end </br> 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="40" height="40"/> </a>

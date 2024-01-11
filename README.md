@@ -2,11 +2,11 @@
 
 <h1 align="center">Hey! My name's Emiliano Aparicio 👋</h1>
 
-<h3 align="center">I am a bioengineer, full stack developer, almost doctor of engineering, symphonic metal absolutist, videogame designer wannabe, and forever a cat lover. I'm interested in technology and programming since I can remember. Nowadays, I'm starting my own videogame project while working as a web dev. Let's talk about what I can offer!</h3>
+<h3 align="center">I am a bioengineer, frontend developer, almost doctor of engineering, symphonic metal absolutist, videogame designer wannabe, and forever a cat lover. I'm interested in technology and programming since I can remember. Nowadays, I'm starting my own videogame project while working as a web dev. Let's talk about what I can offer!</h3>
 
 <h4>🧐 About my experience:</h4>
 <ul>
-  <li>Full Stack Web Developer, graduated from Henry's Bootcamp</li>
+  <li>Frontend Web Developer, graduated from Henry's Bootcamp</li>
   <li>Doctoral scholarship from CONICET</li>
   <li>Bioengineer, from Universidad de Mendoza (National Standard Bearer 2014), with a gold medal and the best engineering graduate (National Academy of Engineering) awards</li>
   <li>High school degree with an orientation to organizations administration</li>
@@ -14,18 +14,13 @@
 
 <h4>🧠 About my skills:</h4>
 <ul>
-  <li>Technology (PERN): HTML, CSS, JavaScript ReactJS, NodeJS, Redux, Sequelize, PostgreSQL, Express, for Databases, Back-end and Front-end </br> 
+  <li>Technologies: HTML, CSS, JavaScript ReactJS </br> 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="blank"> <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="react" width="40" height="40"/> </a> 
-  <a href="https://redux.js.org" target="blank"> <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="redux" width="40" height="40"/> 
-  <a href="https://nodejs.org" target="blank"> <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt="nodejs" height="40"/> </a>
-  <a href="https://expressjs.com" target="blank"> <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express" height="40"/> </a> 
   <a href="https://git-scm.com/" target="blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://www.thunderclient.com/" target="blank"> <img src="https://img.stackshare.io/service/25390/default_b75b4798687f3a8ac77b1c03ce99c60560b06ccb.jpg" alt="thunderClient" width="40" height="40"/> </a>
   <li>Soft skills: teamwork, leadership, creativity, problem solving, logical and critical thinking</li>
   <li>Other: social networks, community management, advertising management, English-Spanish translation/redaction (including technical and scientific requirements)</li>
 </ul>
